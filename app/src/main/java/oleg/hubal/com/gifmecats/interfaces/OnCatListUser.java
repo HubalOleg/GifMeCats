@@ -5,5 +5,5 @@ package oleg.hubal.com.gifmecats.interfaces;
  */
 public interface OnCatListUser {
     public void onPlusButtonClicked();
-    public void onCatImageClicked();
+    public void onCatImageClicked(int position);
 }

@@ -6,5 +6,7 @@
     <string name="cat_count">Cat count: </string>
     <string name="cat_category">Choose category: </string>
     <string name="dialog_title">Choose parameters</string>
+    <string name="btn_back">back</string>
+    <string name="btn_delete">Delete</string>
 </resources>
 

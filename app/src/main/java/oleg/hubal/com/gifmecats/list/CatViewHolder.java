@@ -32,6 +32,6 @@ public class CatViewHolder extends RecyclerView.ViewHolder implements View.OnCli
 
     @Override
     public void onClick(View v) {
-        listUser.onCatImageClicked();
+        listUser.onCatImageClicked(getAdapterPosition());
     }
 }
