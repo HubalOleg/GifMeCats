@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GifMeCats</string>
+    <string name="load_cat">Load cat</string>
+    <string name="add_cat">Add cats</string>
+    <string name="show_cats">Show cats</string>
+    <string name="cat_count">Cat count: </string>
+    <string name="cat_category">Choose category: </string>
+    <string name="dialog_title">Choose parameters</string>
+</resources>
+
